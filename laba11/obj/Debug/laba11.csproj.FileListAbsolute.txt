@@ -12,3 +12,17 @@ C:\Users\New\Desktop\csharplabs\laba11\obj\Debug\laba11.Form2.resources
 C:\Users\New\Desktop\csharplabs\laba11\obj\Debug\laba11.Form3.resources
 C:\Users\New\Desktop\csharplabs\laba11\obj\Debug\laba11.Form4.resources
 C:\Users\New\Desktop\csharplabs\laba11\obj\Debug\laba11.Form5.resources
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\bin\Debug\laba11.exe.config
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\bin\Debug\laba11.exe
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\bin\Debug\laba11.pdb
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\obj\Debug\laba11.csproj.AssemblyReference.cache
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\obj\Debug\laba11.Form1.resources
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\obj\Debug\laba11.Form2.resources
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\obj\Debug\laba11.Form3.resources
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\obj\Debug\laba11.Form4.resources
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\obj\Debug\laba11.Form5.resources
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\obj\Debug\laba11.Properties.Resources.resources
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\obj\Debug\laba11.csproj.GenerateResource.cache
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\obj\Debug\laba11.csproj.CoreCompileInputs.cache
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\obj\Debug\laba11.exe
+C:\Users\New\Source\Repos\c-sharp-labs\laba11\obj\Debug\laba11.pdb
