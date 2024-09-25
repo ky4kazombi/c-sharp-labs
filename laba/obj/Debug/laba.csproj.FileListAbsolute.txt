@@ -1,0 +1,12 @@
+C:\Users\New\source\repos\c-sharp-labs\laba\bin\Debug\laba.exe.config
+C:\Users\New\source\repos\c-sharp-labs\laba\bin\Debug\laba.exe
+C:\Users\New\source\repos\c-sharp-labs\laba\bin\Debug\laba.pdb
+C:\Users\New\source\repos\c-sharp-labs\laba\obj\Debug\laba.csproj.AssemblyReference.cache
+C:\Users\New\source\repos\c-sharp-labs\laba\obj\Debug\laba.Form1.resources
+C:\Users\New\source\repos\c-sharp-labs\laba\obj\Debug\laba.Properties.Resources.resources
+C:\Users\New\source\repos\c-sharp-labs\laba\obj\Debug\laba.csproj.GenerateResource.cache
+C:\Users\New\source\repos\c-sharp-labs\laba\obj\Debug\laba.csproj.CoreCompileInputs.cache
+C:\Users\New\source\repos\c-sharp-labs\laba\obj\Debug\laba.exe
+C:\Users\New\source\repos\c-sharp-labs\laba\obj\Debug\laba.pdb
+C:\Users\New\source\repos\c-sharp-labs\laba\obj\Debug\laba.Form2.resources
+C:\Users\New\source\repos\c-sharp-labs\laba\obj\Debug\laba.Form3.resources
